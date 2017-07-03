@@ -1,3 +1,5 @@
+[在线查看地址](http://jxdxsw.com/responsiveweb_finance/responsiveWeb/dist/index.html)
+
 # http-server
 [http-server](https://github.com/indexzero/http-server)
 命令行的server  基于nodejs
